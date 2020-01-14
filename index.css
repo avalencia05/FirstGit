@@ -2,4 +2,14 @@
     margin: 50px;
     font-family: Helvetica, sans-serif;
     font-size: 150%;
+    background-color: cornflowerblue;
 }
+.button {
+    background-color:rgb(218, 103, 179);
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+  }
